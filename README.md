@@ -30,7 +30,7 @@ This is a simple web project that allows users to customize various aspects of a
 
 ## Author
 
-[Your Name]
+inderjot kaur
 
 ## License
 
