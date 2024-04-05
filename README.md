@@ -1,3 +1,6 @@
+## Student Name : inderjot karu gill  
+## Student Number : 90541099062
+
 # User Customizable Page
 
 This is a simple web project that allows users to customize various aspects of a webpage using JavaScript.
@@ -30,7 +33,7 @@ This is a simple web project that allows users to customize various aspects of a
 
 ## Author
 
-inderjot kaur
+inderjot kaur gill 
 
 ## License
 
