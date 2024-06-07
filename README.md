@@ -1,4 +1,4 @@
-## Student Name : inderjot karu gill  
+## Student Name : inderjot kaur gill  
 ## Student Number : 90541099062
 
 # User Customizable Page
